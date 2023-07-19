@@ -1,0 +1,27 @@
+_repo: Twenty-five-years-in-the-West_71224
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Manford, Erasmus
+    gutenberg_agent_id: '56129'
+    url: http://www.gutenberg.org/2009/agents/56129
+description: ''
+gutenberg_issued: '2023-07-19'
+identifiers:
+  gutenberg: '71224'
+language: en
+pgterms:marc904: https://archive.org/details/twentyfiveyearsi02manf
+pgterms:marc905: 20210625032949manford
+pgterms:marc906: '1867'
+pgterms:marc907: us
+production_note: Sonya Schermann, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bE. Manford, $c1867.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Twenty-five years in the West
+url: http://www.gutenberg.org/ebooks/71224
