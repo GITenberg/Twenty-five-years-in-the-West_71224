@@ -1,11 +1,16 @@
 _repo: Twenty-five-years-in-the-West_71224
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71224-h/images/cover.jpg
 creator:
   author:
     agent_name: Manford, Erasmus
     gutenberg_agent_id: '56129'
     url: http://www.gutenberg.org/2009/agents/56129
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71224#Twenty-five-years-in-the-West
 gutenberg_issued: '2023-07-19'
 identifiers:
   gutenberg: '71224'
